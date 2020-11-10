@@ -1,0 +1,17 @@
+{
+    "name": "English Premier League",
+    "short_name": "Premier League",
+    "description": "List of Teams and Players of English Premiere League",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#4a148c",
+    "theme_color": "#4a148c",
+    "gcm_sender_id": "50883727498",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
